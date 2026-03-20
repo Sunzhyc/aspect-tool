@@ -1,20 +1,41 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ASPECT [ ] Batch Image Cropper
 
-# Run and deploy your AI Studio app
+A smart, powerful batch image cropping tool designed to streamline your workflow. Crop multiple images to specific aspect ratios quickly and intuitively with an intelligent interface.
 
-This contains everything you need to run your app locally.
+## 🚀 Live Demo
 
-View your app in AI Studio: https://ai.studio/apps/1c0bc452-5665-45c6-8d39-36f07ff655c1
+Check out the live tool here and start cropping:
+**[https://Sunzhyc.github.io/aspect-tool/](https://Sunzhyc.github.io/aspect-tool/)**
 
-## Run Locally
+## ✨ Features
 
-**Prerequisites:**  Node.js
+* **Batch Processing:** Crop entire folders of images at once.
+* **Smart Interface:** Intuitive design for seamless navigation and control.
+* **Custom Presets:** Define and save your own aspect ratios.
+* **Privacy First:** All processing is done locally in your browser.
 
+## 🛠️ Local Development
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+To run this project locally, follow these steps:
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/Sunzhyc/aspect-tool.git](https://github.com/Sunzhyc/aspect-tool.git)
+    ```
+2.  **Navigate to the project directory:**
+    ```bash
+    cd aspect-tool
+    ```
+3.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+4.  **Start the development server:**
+    ```bash
+    npm run dev
+    ```
+5.  Open your browser and navigate to `http://localhost:3000`.
+
+## 📄 License
+
+This project is licensed under the MIT License.
