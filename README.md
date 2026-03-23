@@ -1,8 +1,10 @@
-# ASPECT [ ] Batch Image Cropper
-
 A smart, powerful batch image cropping tool designed to streamline your workflow. Crop multiple images to specific aspect ratios quickly and intuitively with an intelligent interface.
 
 ## 🚀 Live Demo
+
+<img width="2000" height="1202" alt="single" src="https://github.com/user-attachments/assets/2c78761d-359e-415e-9486-9e9ed369cb7e" />
+
+![aspect_demo](https://github.com/user-attachments/assets/5f437bc5-bbb4-4de9-bbf3-5fdd67296195)
 
 Check out the live tool here and start cropping:
 **[https://Sunzhyc.github.io/aspect-tool/](https://Sunzhyc.github.io/aspect-tool/)**
